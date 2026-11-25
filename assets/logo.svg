@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Playfair Fun &amp; Games">
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="#b91c28"/>
+  <rect x="11" y="11" width="42" height="42" rx="11" fill="#f6f1e8"/>
+  <path d="M24.2 42 V22.6 h10.2 c5.2 0 8.4 2.9 8.4 7.4 0 4.6-3.3 7.5-8.5 7.5 H30.4 V42 h-6.2zm6.2-16.6v8.2h3.6c2.7 0 4.3-1.4 4.3-4.1 0-2.7-1.6-4.1-4.3-4.1H30.4z" fill="#b91c28"/>
+</svg>
